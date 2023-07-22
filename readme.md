@@ -1,4 +1,4 @@
-#Real-time Face Masking with emoji augmentation
+# Real-time Face Masking with emoji augmentation
 
 This project implements real-time face masking with emoji augmentation using the webcam feed. The program detects faces in the webcam feed and overlays an emoji on each detected face. After 20 seconds or when the 'q' key is pressed, the current frame is saved, and the emoji changes. The project includes three different emojis in total. Once all three augmented images are captured, a collage is displayed, showcasing the captured images.
 
